@@ -1,4 +1,4 @@
 {
-  "lastVersion": "1.1.2",
-  "updateContent": "1、APK下载优化"
+  "lastVersion": "1.1.3",
+  "updateContent": "1、修改了数据库结构（所以本次更新会导致本地书籍信息丢失，书源需重新导入）\n2、新增 支持WebDav同步书籍信息（之后不会再主动获取文件管理权限）\n3、修复阿里云SDK问题"
 }
